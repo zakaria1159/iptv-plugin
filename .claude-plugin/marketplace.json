@@ -1,0 +1,11 @@
+{
+  "name": "iptv-marketplace",
+  "owner": { "name": "zakaria1159" },
+  "plugins": [
+    {
+      "name": "iptv",
+      "source": "./",
+      "description": "Create and renew IPTV lines via the reseller API"
+    }
+  ]
+}
